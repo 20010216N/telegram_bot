@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+yt-dlp==2024.4.9
+SpeechRecognition==3.10.1
+pydub==0.25.1
+requests==2.31.0
+python-dotenv==1.0.0
+
+beautifulsoup4
+PySocks
