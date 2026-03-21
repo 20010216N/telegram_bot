@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.14.1
+gTTS==2.5.1
+edge-tts
+deep-translator
+requests==2.32.5
